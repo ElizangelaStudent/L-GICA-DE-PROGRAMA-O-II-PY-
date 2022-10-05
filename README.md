@@ -11,6 +11,13 @@
 <p align="center">
 <img width="60px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png
 
+<p align="left">
+  <img width="60px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png />
+  <img src="/img2.png" width="100" /> 
+  
+</p>
+
+
 </p>
 
 <p align="center"> ⚠️🚧Em construção🚧⚠️</p>
