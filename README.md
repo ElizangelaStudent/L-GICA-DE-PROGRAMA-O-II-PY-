@@ -1,5 +1,5 @@
 <p align="center">
-<img width="180px" height= 269 src=https://github.com/ElizangelaStudent/-L-GICA-DE-PROGRAMA-O-I-PY-/blob/3ada955ac03cec07b6173afaf1152dc7851f5434/homem%20letra.gif
+<img width="180px" height= 269 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/d87feff22276e3e6c611015b000fd6c08f60bc95/homem%20letra.gif
 
 </p>
 
