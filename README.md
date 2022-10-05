@@ -1,24 +1,14 @@
 <p align="center">
 <img width="180px" height= 269 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/d87feff22276e3e6c611015b000fd6c08f60bc95/homem%20letra.gif
-
 </p>
 
-  # <p align="center"> **LÓGICA DE PROGRAMAÇÃO II (PY)💻**
-</p>
+  # <p align="center"> **LÓGICA DE PROGRAMAÇÃO II (PY)💻**</p>
 
 <p align="center"> Este projeto tem como finalidade expor as aulas e chegar as habilidades adquiridas no bootcamp do Diversidade Tech (python e dados) fornecido pela Suzano S.A. em parceria com a Let's Code from ADA.</p>
 
 <p align="center">
-<img width="60px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png
-
-<p align="left">
-  <img width="60px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png />
-  <img src="/img2.png" width="100" /> 
-  
-</p>
-
-
-</p>
+<img width="70px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png />
+<img width="50px" height= 50 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/b05360dcabad27602e0224a88b9deea2ca201817/ada.png />
 
 <p align="center"> ⚠️🚧Em construção🚧⚠️</p>
 
