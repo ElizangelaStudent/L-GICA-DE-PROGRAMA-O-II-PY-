@@ -8,7 +8,7 @@
 
 <p align="center">
 <img width="70px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/6b8161e5b9a8f01081657e3b2fe54332d16ebac8/log%20suzano.png />
-<img width="50px" height= 50 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/b05360dcabad27602e0224a88b9deea2ca201817/ada.png />
+<img width="50px" height= 40 src=https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/34488933372f6b058d12c15c584b63734c89781e/ADA.jpeg />
 
 <p align="center"> ⚠️🚧Em construção🚧⚠️</p>
 
