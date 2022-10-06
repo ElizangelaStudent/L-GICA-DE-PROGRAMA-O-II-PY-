@@ -18,3 +18,9 @@
  Tupla é um tipo de estrutura de dados utilizada em Python que funciona de modo semelhante a uma lista, entretanto, com a característica principal de ser imutável. Nessa aula iremos realizar uma revisão sobre listas e  adentrar em um novo contéudo- Tuplas.
    
    **[Aula 1](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/b3746b2fa1e77fee347c8896e1c836680607299d/Aula_1_Revis%C3%A3o_sobre_listas_e_Conhecendo_sobre_Tuplas.ipynb)**
+
+## Aula 2- Dicionários em Python
+
+ Nessa Aula, iremos conhecer sobre dicionários, aprendendo sobre conceito, como criar, adicionar, alterar, percorrer, excluir elementos de um dicionário. 
+   
+   **[Aula 2](https://github.com/ElizangelaStudent/L-GICA-DE-PROGRAMA-O-II-PY-/blob/4ef1a0c8193b6542051f0e84cf27fbebb8c4eb75/Aula_2_Dicion%C3%A1rios_em_Python.ipynb)**
